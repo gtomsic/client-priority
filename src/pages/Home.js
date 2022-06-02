@@ -52,7 +52,7 @@ const Home = () => {
                         animate="visible"
                         exit="exit"
                         key={title}
-                        className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2 md:gap-3 lg:gap-5 px-3 md:px-3 lg:px-5"
+                        className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-11 md:gap-3 lg:gap-5 px-3 md:px-3 lg:px-5"
                     >
                         {options?.length > 0 &&
                             options?.map((item, index) => (
