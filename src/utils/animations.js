@@ -64,7 +64,7 @@ export const upSmall = {
         y: 0,
         transition: {
             ease: "easeInOut",
-            duration: 0.5,
+            duration: 1,
             delay: 0.5,
         },
     },
@@ -79,7 +79,7 @@ export const downSmall = {
         y: 0,
         transition: {
             ease: "easeInOut",
-            duration: 0.5,
+            duration: 1,
             delay: 0.5,
         },
     },
