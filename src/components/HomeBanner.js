@@ -10,7 +10,7 @@ import aqua from "../assets/images/AQUA.png";
 
 const banners = [
     {
-        title: "ProQA v5.1.1.44 MAINTENANCE RELEASE",
+        title: "ProQA v5.1.1.44 Maintenance Release",
         bg: bg1,
         image: proqa,
     },
