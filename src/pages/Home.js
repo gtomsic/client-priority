@@ -17,7 +17,7 @@ const Home = () => {
     };
     return (
         <div className="bg-light-gray">
-            <div className="h-[70vh] md:h-[90vh] overflow-hidden">
+            <div className="h-[50vh] md:h-[70vh] overflow-hidden">
                 <HomeBanner />
             </div>
             <div className="my-[100px]">

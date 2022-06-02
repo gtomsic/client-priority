@@ -61,7 +61,7 @@ const HomeBanner = () => {
                         backgroundPosition: "top",
                         backgroundRepeat: "no-repeat",
                     }}
-                    className="h-[70vh] md:h-[90vh] w-full flex justify-center items-center z-0"
+                    className="h-[50vh] md:h-[70vh] w-full flex justify-center items-center z-0"
                 >
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-11 w-[90vw] md:w-[80vw] lg:w-[60vw]">
                         <motion.div
