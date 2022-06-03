@@ -15,7 +15,7 @@ const menus = [
 ];
 
 const RightDrawer = ({ isOpen, setIsOpen }) => {
-    const [menuTitle, setMenuTitle] = React.useState(menus[0].name);
+    // const [menuTitle, setMenuTitle] = React.useState(menus[0].name);
     return ReactDOM.createPortal(
         <>
             {isOpen && (

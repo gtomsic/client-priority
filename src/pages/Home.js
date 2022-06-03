@@ -5,7 +5,7 @@ import Container from "../components/Container";
 import HomeBanner from "../components/HomeBanner";
 
 import { data } from "../data/data";
-import { showDelay, scaleOne } from "../utils/animations";
+import { showDelay } from "../utils/animations";
 
 const Home = () => {
     const [title, setTitle] = React.useState(data[0].title);
